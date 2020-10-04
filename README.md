@@ -3,7 +3,7 @@ This is Launcher Program for 2020 Online Kofusai in Waseda High School.
 ## Library
 - C++17 ver.VS2020<br>
 - [OpenSiv3D ver.0.4.3](https://github.com/Siv3D/OpenSiv3D)<br>
-- HTTPClient with curl on OpenSiv3D<br>
+- [HTTPClient with curl on OpenSiv3D](https://github.com/Siv3D/OpenSiv3D/issues/482)<br>
 ## Config
 "launcher.ini" is Config File
 ```
@@ -21,5 +21,5 @@ S.Takahashi (Waseda High School 125th)
 #### Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-Copyright (c) 2020 Waseda High School Personal Computing Club All Rights Reserved.
+Copyright (c) 2020 Waseda High School Personal Computing Club All Rights Reserved.<br>
 The copyright of each game exists for each creator.(Games Folder)
