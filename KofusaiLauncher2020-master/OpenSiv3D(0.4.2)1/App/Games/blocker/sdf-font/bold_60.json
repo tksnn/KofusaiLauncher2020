@@ -1,0 +1,2643 @@
+﻿{
+  "format": "OpenSiv3D MSDF Font",
+  "version": 1,
+  "Property": {
+    "familyName": "03SmartFontUI",
+    "styleName": "Regular",
+    "baseSize": 60,
+    "penPos": "(758, 667)",
+    "nullCharacterIndex": 178
+  },
+  "CodePoints": {
+    "12452": 185,
+    "12503": 236,
+    "118": 86,
+    "12384": 125,
+    "50": 18,
+    "12428": 169,
+    "105": 73,
+    "12473": 206,
+    "27231": 280,
+    "53": 21,
+    "12406": 147,
+    "12513": 246,
+    "96": 64,
+    "12429": 170,
+    "44": 12,
+    "95": 63,
+    "12478": 211,
+    "22810": 286,
+    "12410": 151,
+    "39": 7,
+    "86": 54,
+    "12407": 148,
+    "12518": 251,
+    "12435": 176,
+    "12383": 124,
+    "73": 41,
+    "12411": 152,
+    "12522": 255,
+    "12404": 145,
+    "12519": 252,
+    "64": 32,
+    "12380": 121,
+    "12495": 228,
+    "12361": 102,
+    "12536": 269,
+    "123": 91,
+    "12405": 146,
+    "12516": 249,
+    "12448": 178,
+    "114": 82,
+    "12381": 122,
+    "12492": 225,
+    "62": 30,
+    "12366": 107,
+    "12537": 270,
+    "117": 85,
+    "12470": 203,
+    "49": 17,
+    "12370": 111,
+    "12493": 226,
+    "108": 76,
+    "12542": 275,
+    "40": 8,
+    "91": 59,
+    "12474": 207,
+    "103": 71,
+    "12471": 204,
+    "35": 3,
+    "82": 50,
+    "12499": 232,
+    "12396": 137,
+    "12447": 178,
+    "37444": 290,
+    "12475": 208,
+    "85": 53,
+    "12468": 201,
+    "12400": 141,
+    "12397": 138,
+    "76": 44,
+    "12444": 180,
+    "12425": 166,
+    "12469": 202,
+    "71": 39,
+    "12401": 142,
+    "12512": 245,
+    "12386": 127,
+    "12445": 181,
+    "126": 94,
+    "12430": 171,
+    "58": 26,
+    "12362": 103,
+    "12359": 100,
+    "12534": 267,
+    "113": 81,
+    "12387": 128,
+    "12434": 175,
+    "61": 29,
+    "104": 72,
+    "12363": 104,
+    "12538": 271,
+    "52": 20,
+    "12356": 97,
+    "12535": 268,
+    "99": 67,
+    "12460": 193,
+    "47": 15,
+    "94": 62,
+    "12511": 244,
+    "12360": 101,
+    "12539": 272,
+    "12357": 98,
+    "12532": 265,
+    "38": 6,
+    "81": 49,
+    "12464": 197,
+    "12461": 194,
+    "12508": 241,
+    "12382": 123,
+    "12489": 222,
+    "72": 40,
+    "12533": 266,
+    "12465": 198,
+    "67": 35,
+    "12450": 183,
+    "12509": 242,
+    "12494": 227,
+    "122": 90,
+    "12426": 167,
+    "21487": 278,
+    "12423": 164,
+    "12451": 184,
+    "12498": 231,
+    "125": 93,
+    "33021": 279,
+    "12399": 140,
+    "57": 25,
+    "12427": 168,
+    "116": 84,
+    "12420": 161,
+    "48": 16,
+    "12413": 154,
+    "12524": 257,
+    "111": 79,
+    "12424": 165,
+    "43": 11,
+    "90": 58,
+    "12421": 162,
+    "102": 70,
+    "12528": 261,
+    "34": 2,
+    "93": 61,
+    "12402": 143,
+    "12525": 258,
+    "12446": 182,
+    "12378": 119,
+    "37": 5,
+    "84": 52,
+    "12358": 99,
+    "12529": 262,
+    "12403": 144,
+    "12514": 247,
+    "79": 47,
+    "36895": 285,
+    "12379": 120,
+    "12490": 223,
+    "12372": 113,
+    "12487": 220,
+    "70": 38,
+    "19976": 289,
+    "12515": 248,
+    "12463": 196,
+    "121": 89,
+    "12376": 117,
+    "12491": 224,
+    "12373": 114,
+    "12484": 217,
+    "112": 80,
+    "12416": 157,
+    "12477": 210,
+    "60": 28,
+    "12377": 118,
+    "12488": 221,
+    "107": 75,
+    "12485": 218,
+    "55": 23,
+    "12417": 158,
+    "98": 66,
+    "12466": 199,
+    "46": 14,
+    "89": 57,
+    "12510": 243,
+    "12395": 136,
+    "12442": 178,
+    "101": 69,
+    "12422": 163,
+    "33": 1,
+    "80": 48,
+    "12467": 200,
+    "24375": 287,
+    "12415": 156,
+    "12392": 133,
+    "75": 43,
+    "12443": 179,
+    "12389": 130,
+    "12436": 177,
+    "12368": 109,
+    "66": 34,
+    "12412": 153,
+    "12527": 260,
+    "12393": 134,
+    "12440": 178,
+    "69": 37,
+    "12437": 178,
+    "12369": 110,
+    "12480": 213,
+    "12354": 95,
+    "12541": 274,
+    "124": 92,
+    "21697": 283,
+    "12398": 139,
+    "12441": 178,
+    "56": 24,
+    "119": 87,
+    "12374": 115,
+    "12481": 214,
+    "51": 19,
+    "12355": 96,
+    "12530": 263,
+    "110": 78,
+    "12459": 192,
+    "42": 10,
+    "12506": 239,
+    "39640": 284,
+    "12375": 116,
+    "12486": 219,
+    "97": 65,
+    "12531": 264,
+    "45": 13,
+    "92": 60,
+    "12479": 212,
+    "12456": 189,
+    "12507": 240,
+    "12453": 186,
+    "36": 4,
+    "87": 55,
+    "12500": 233,
+    "12385": 126,
+    "12432": 173,
+    "12476": 209,
+    "78": 46,
+    "12457": 190,
+    "12504": 237,
+    "20316": 276,
+    "12501": 234,
+    "12390": 131,
+    "65": 33,
+    "12433": 174,
+    "12418": 159,
+    "12462": 195,
+    "12505": 238,
+    "120": 88,
+    "12394": 135,
+    "12391": 132,
+    "12438": 178,
+    "115": 83,
+    "12419": 160,
+    "63": 31,
+    "12367": 108,
+    "12408": 149,
+    "12523": 256,
+    "106": 74,
+    "12388": 129,
+    "12439": 178,
+    "54": 22,
+    "109": 77,
+    "12364": 105,
+    "12543": 178,
+    "41": 9,
+    "88": 56,
+    "12409": 150,
+    "12520": 253,
+    "12517": 250,
+    "100": 68,
+    "25104": 277,
+    "32": 0,
+    "83": 51,
+    "12496": 229,
+    "12365": 106,
+    "12540": 273,
+    "12414": 155,
+    "12521": 254,
+    "74": 42,
+    "12454": 187,
+    "12497": 230,
+    "12371": 112,
+    "12482": 215,
+    "77": 45,
+    "12526": 259,
+    "38929": 288,
+    "37096": 282,
+    "12458": 191,
+    "20307": 281,
+    "68": 36,
+    "12455": 188,
+    "12502": 235,
+    "12483": 216,
+    "12431": 172,
+    "12544": 178,
+    "12472": 205,
+    "59": 27
+  },
+  "Glyphs": [
+    {
+      "index": 0,
+      "bitmapRect": "(1, 1, 12, 12)",
+      "offset": "(-5.76, 47.24)",
+      "bearingY": 0.0,
+      "xAdvance": 30.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 1,
+      "bitmapRect": "(15, 1, 17, 57)",
+      "offset": "(-0.42, 2.72)",
+      "bearingY": 44.519999999999999,
+      "xAdvance": 15.66,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 2,
+      "bitmapRect": "(34, 1, 24, 25)",
+      "offset": "(-0.36, -0.58)",
+      "bearingY": 47.82,
+      "xAdvance": 23.04,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 3,
+      "bitmapRect": "(60, 1, 46, 55)",
+      "offset": "(-2.76, 4.1)",
+      "bearingY": 43.14,
+      "xAdvance": 40.68,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 4,
+      "bitmapRect": "(108, 1, 42, 72)",
+      "offset": "(-3.48, -4.78)",
+      "bearingY": 52.019999999999999,
+      "xAdvance": 34.5,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 5,
+      "bitmapRect": "(152, 1, 51, 59)",
+      "offset": "(-1.2, 0.8)",
+      "bearingY": 46.44,
+      "xAdvance": 48.96,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 6,
+      "bitmapRect": "(205, 1, 49, 57)",
+      "offset": "(-1.98, 2.9)",
+      "bearingY": 44.339999999999999,
+      "xAdvance": 43.559999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 7,
+      "bitmapRect": "(256, 1, 17, 26)",
+      "offset": "(-1.32, 0.98)",
+      "bearingY": 46.26,
+      "xAdvance": 14.16,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 8,
+      "bitmapRect": "(275, 1, 27, 72)",
+      "offset": "(-3.06, -5.2)",
+      "bearingY": 52.44,
+      "xAdvance": 20.64,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 9,
+      "bitmapRect": "(304, 1, 27, 72)",
+      "offset": "(-3.12, -5.2)",
+      "bearingY": 52.44,
+      "xAdvance": 20.759999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 10,
+      "bitmapRect": "(333, 1, 35, 34)",
+      "offset": "(-1.56, 3.38)",
+      "bearingY": 43.86,
+      "xAdvance": 31.56,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 11,
+      "bitmapRect": "(370, 1, 40, 40)",
+      "offset": "(-4.68, 11.12)",
+      "bearingY": 36.12,
+      "xAdvance": 30.779999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 12,
+      "bitmapRect": "(412, 1, 20, 21)",
+      "offset": "(-3, 43.1)",
+      "bearingY": 4.14,
+      "xAdvance": 13.379999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 13,
+      "bitmapRect": "(434, 1, 24, 16)",
+      "offset": "(-1.44, 26.6)",
+      "bearingY": 20.64,
+      "xAdvance": 21.48,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 14,
+      "bitmapRect": "(460, 1, 17, 17)",
+      "offset": "(-0.48, 43.1)",
+      "bearingY": 4.14,
+      "xAdvance": 15.959999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 15,
+      "bitmapRect": "(479, 1, 36, 57)",
+      "offset": "(-5.04, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 25.8,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 16,
+      "bitmapRect": "(517, 1, 40, 59)",
+      "offset": "(-0.84, 1.4)",
+      "bearingY": 45.839999999999999,
+      "xAdvance": 37.92,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 17,
+      "bitmapRect": "(559, 1, 26, 58)",
+      "offset": "(-2.16, 1.88)",
+      "bearingY": 45.36,
+      "xAdvance": 25.32,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 18,
+      "bitmapRect": "(587, 1, 40, 58)",
+      "offset": "(0.42, 1.28)",
+      "bearingY": 45.96,
+      "xAdvance": 39.059999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 19,
+      "bitmapRect": "(629, 1, 42, 59)",
+      "offset": "(-1.2, 1.28)",
+      "bearingY": 45.96,
+      "xAdvance": 40.68,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 20,
+      "bitmapRect": "(673, 1, 45, 58)",
+      "offset": "(-4.62, 2.06)",
+      "bearingY": 45.18,
+      "xAdvance": 37.019999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 21,
+      "bitmapRect": "(720, 1, 41, 58)",
+      "offset": "(0.24, 1.94)",
+      "bearingY": 45.3,
+      "xAdvance": 39.54,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 22,
+      "bitmapRect": "(763, 1, 41, 59)",
+      "offset": "(-1.98, 0.98)",
+      "bearingY": 46.26,
+      "xAdvance": 37.26,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 23,
+      "bitmapRect": "(806, 1, 42, 58)",
+      "offset": "(-2.94, 1.94)",
+      "bearingY": 45.3,
+      "xAdvance": 34.74,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 24,
+      "bitmapRect": "(850, 1, 41, 59)",
+      "offset": "(-0.18, 1.28)",
+      "bearingY": 45.96,
+      "xAdvance": 40.68,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 25,
+      "bitmapRect": "(893, 1, 41, 59)",
+      "offset": "(-1.62, 1.28)",
+      "bearingY": 45.96,
+      "xAdvance": 37.32,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 26,
+      "bitmapRect": "(936, 1, 17, 47)",
+      "offset": "(-0.48, 13.28)",
+      "bearingY": 33.96,
+      "xAdvance": 15.78,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 27,
+      "bitmapRect": "(955, 1, 20, 51)",
+      "offset": "(-3.72, 13.28)",
+      "bearingY": 33.96,
+      "xAdvance": 13.68,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 28,
+      "bitmapRect": "(977, 1, 38, 40)",
+      "offset": "(-4.74, 11.18)",
+      "bearingY": 36.059999999999998,
+      "xAdvance": 32.879999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 29,
+      "bitmapRect": "(1017, 1, 37, 26)",
+      "offset": "(-0.42, 18.14)",
+      "bearingY": 29.099999999999999,
+      "xAdvance": 36.42,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 30,
+      "bitmapRect": "(1056, 1, 38, 40)",
+      "offset": "(-0.42, 11.18)",
+      "bearingY": 36.059999999999998,
+      "xAdvance": 33.06,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 31,
+      "bitmapRect": "(1096, 1, 36, 58)",
+      "offset": "(-4.44, 2.3)",
+      "bearingY": 44.94,
+      "xAdvance": 27.959999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 32,
+      "bitmapRect": "(1134, 1, 63, 63)",
+      "offset": "(-1.98, 3.62)",
+      "bearingY": 43.62,
+      "xAdvance": 58.62,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 33,
+      "bitmapRect": "(1199, 1, 51, 57)",
+      "offset": "(-3.78, 2.42)",
+      "bearingY": 44.82,
+      "xAdvance": 43.26,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 34,
+      "bitmapRect": "(1252, 1, 42, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 40.8,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 35,
+      "bitmapRect": "(1296, 1, 40, 57)",
+      "offset": "(-0.72, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 35.94,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 36,
+      "bitmapRect": "(1338, 1, 43, 57)",
+      "offset": "(-0.18, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 42.059999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 37,
+      "bitmapRect": "(1383, 1, 41, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 36.96,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 38,
+      "bitmapRect": "(1426, 1, 41, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 36.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 39,
+      "bitmapRect": "(1469, 1, 43, 57)",
+      "offset": "(-0.72, 2.42)",
+      "bearingY": 44.82,
+      "xAdvance": 39.9,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 40,
+      "bitmapRect": "(1, 75, 43, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 42.54,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 41,
+      "bitmapRect": "(46, 75, 16, 57)",
+      "offset": "(-0.3, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 15.66,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 42,
+      "bitmapRect": "(64, 75, 30, 57)",
+      "offset": "(-5.04, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 24.3,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 43,
+      "bitmapRect": "(96, 75, 43, 57)",
+      "offset": "(-0.3, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 40.08,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 44,
+      "bitmapRect": "(141, 75, 39, 57)",
+      "offset": "(-0.3, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 33.6,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 45,
+      "bitmapRect": "(182, 75, 52, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 51.18,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 46,
+      "bitmapRect": "(236, 75, 44, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 43.32,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 47,
+      "bitmapRect": "(282, 75, 43, 57)",
+      "offset": "(-0.6, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 41.64,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 48,
+      "bitmapRect": "(327, 75, 43, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 38.94,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 49,
+      "bitmapRect": "(372, 75, 43, 63)",
+      "offset": "(-1.44, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 40.68,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 50,
+      "bitmapRect": "(417, 75, 44, 57)",
+      "offset": "(-0.24, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 42.239999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 51,
+      "bitmapRect": "(463, 75, 42, 57)",
+      "offset": "(-2.46, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 37.26,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 52,
+      "bitmapRect": "(507, 75, 44, 57)",
+      "offset": "(-4.44, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 34.62,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 53,
+      "bitmapRect": "(553, 75, 43, 57)",
+      "offset": "(-0.48, 2.48)",
+      "bearingY": 44.76,
+      "xAdvance": 42.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 54,
+      "bitmapRect": "(598, 75, 49, 57)",
+      "offset": "(-3.72, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 42.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 55,
+      "bitmapRect": "(649, 75, 66, 57)",
+      "offset": "(-2.52, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 60.48,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 56,
+      "bitmapRect": "(717, 75, 47, 57)",
+      "offset": "(-2.22, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 42.239999999999998,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 57,
+      "bitmapRect": "(766, 75, 48, 57)",
+      "offset": "(-4.32, 2.6)",
+      "bearingY": 44.64,
+      "xAdvance": 39.54,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 58,
+      "bitmapRect": "(816, 75, 43, 57)",
+      "offset": "(-2.7, 2.84)",
+      "bearingY": 44.4,
+      "xAdvance": 37.5,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 59,
+      "bitmapRect": "(861, 75, 23, 71)",
+      "offset": "(-0.42, -5.14)",
+      "bearingY": 52.379999999999998,
+      "xAdvance": 18.18,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 60,
+      "bitmapRect": "(886, 75, 36, 57)",
+      "offset": "(-4.98, 2.12)",
+      "bearingY": 45.12,
+      "xAdvance": 25.8,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 61,
+      "bitmapRect": "(924, 75, 23, 71)",
+      "offset": "(-4.02, -5.14)",
+      "bearingY": 52.379999999999998,
+      "xAdvance": 18.24,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 62,
+      "bitmapRect": "(949, 75, 40, 28)",
+      "offset": "(-3.66, -1.3)",
+      "bearingY": 48.54,
+      "xAdvance": 32.519999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 63,
+      "bitmapRect": "(991, 75, 38, 15)",
+      "offset": "(-4.2, 51.26)",
+      "bearingY": -4.02,
+      "xAdvance": 30.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 64,
+      "bitmapRect": "(1031, 75, 21, 20)",
+      "offset": "(2.76, 3.86)",
+      "bearingY": 43.379999999999998,
+      "xAdvance": 0.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 65,
+      "bitmapRect": "(1054, 75, 39, 47)",
+      "offset": "(-2.88, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 35.46,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 66,
+      "bitmapRect": "(1095, 75, 39, 60)",
+      "offset": "(-0.48, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 37.14,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 67,
+      "bitmapRect": "(1136, 75, 35, 47)",
+      "offset": "(-2.04, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 30.48,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 68,
+      "bitmapRect": "(1173, 75, 39, 60)",
+      "offset": "(-2.04, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 36.839999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 69,
+      "bitmapRect": "(1214, 75, 40, 47)",
+      "offset": "(-1.98, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 35.28,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 70,
+      "bitmapRect": "(1256, 75, 33, 59)",
+      "offset": "(-4.02, 0.38)",
+      "bearingY": 46.86,
+      "xAdvance": 25.08,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 71,
+      "bitmapRect": "(1291, 75, 40, 57)",
+      "offset": "(-1.74, 12.86)",
+      "bearingY": 34.379999999999998,
+      "xAdvance": 36.96,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 72,
+      "bitmapRect": "(1333, 75, 39, 59)",
+      "offset": "(-0.48, 0.44)",
+      "bearingY": 46.8,
+      "xAdvance": 37.14,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 73,
+      "bitmapRect": "(1374, 75, 16, 60)",
+      "offset": "(-0.78, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 14.58,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 74,
+      "bitmapRect": "(1392, 75, 26, 70)",
+      "offset": "(-5.04, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 19.86,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 75,
+      "bitmapRect": "(1420, 75, 39, 60)",
+      "offset": "(-0.48, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 33.06,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 76,
+      "bitmapRect": "(1461, 75, 16, 59)",
+      "offset": "(-0.48, 0.38)",
+      "bearingY": 46.86,
+      "xAdvance": 15.299999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 77,
+      "bitmapRect": "(1, 149, 57, 47)",
+      "offset": "(-0.24, 12.62)",
+      "bearingY": 34.62,
+      "xAdvance": 55.86,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 78,
+      "bitmapRect": "(60, 149, 39, 47)",
+      "offset": "(-0.24, 12.62)",
+      "bearingY": 34.62,
+      "xAdvance": 38.46,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 79,
+      "bitmapRect": "(101, 149, 39, 47)",
+      "offset": "(-1.98, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 35.1,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 80,
+      "bitmapRect": "(142, 149, 39, 57)",
+      "offset": "(-0.84, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 36.12,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 81,
+      "bitmapRect": "(183, 149, 39, 57)",
+      "offset": "(-2.04, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 36.12,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 82,
+      "bitmapRect": "(224, 149, 30, 47)",
+      "offset": "(-0.24, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 25.2,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 83,
+      "bitmapRect": "(256, 149, 39, 47)",
+      "offset": "(-2.88, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 32.64,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 84,
+      "bitmapRect": "(297, 149, 32, 56)",
+      "offset": "(-4.08, 4.22)",
+      "bearingY": 43.019999999999999,
+      "xAdvance": 24.48,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 85,
+      "bitmapRect": "(331, 149, 39, 47)",
+      "offset": "(-1.98, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 35.1,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 86,
+      "bitmapRect": "(372, 149, 43, 47)",
+      "offset": "(-3.9, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 35.28,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 87,
+      "bitmapRect": "(417, 149, 57, 47)",
+      "offset": "(-3.54, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 50.16,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 88,
+      "bitmapRect": "(476, 149, 43, 47)",
+      "offset": "(-3.42, 12.68)",
+      "bearingY": 34.56,
+      "xAdvance": 35.699999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 89,
+      "bitmapRect": "(521, 149, 40, 57)",
+      "offset": "(-1.74, 12.86)",
+      "bearingY": 34.379999999999998,
+      "xAdvance": 36.72,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 90,
+      "bitmapRect": "(563, 149, 38, 47)",
+      "offset": "(-2.28, 12.92)",
+      "bearingY": 34.32,
+      "xAdvance": 33.72,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 91,
+      "bitmapRect": "(603, 149, 33, 71)",
+      "offset": "(-5.16, -5.14)",
+      "bearingY": 52.379999999999998,
+      "xAdvance": 24.36,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 92,
+      "bitmapRect": "(638, 149, 15, 72)",
+      "offset": "(-0.42, -5.62)",
+      "bearingY": 52.86,
+      "xAdvance": 14.459999999999999,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 93,
+      "bitmapRect": "(655, 149, 33, 71)",
+      "offset": "(-3, -5.14)",
+      "bearingY": 52.379999999999998,
+      "xAdvance": 24.36,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 94,
+      "bitmapRect": "(690, 149, 30, 18)",
+      "offset": "(0.42, 4.7)",
+      "bearingY": 42.54,
+      "xAdvance": 0.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 95,
+      "bitmapRect": "(722, 149, 53, 60)",
+      "offset": "(3.06, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 96,
+      "bitmapRect": "(777, 149, 45, 44)",
+      "offset": "(8.88, 14.12)",
+      "bearingY": 33.12,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 97,
+      "bitmapRect": "(824, 149, 52, 51)",
+      "offset": "(4.92, 7.58)",
+      "bearingY": 39.66,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 98,
+      "bitmapRect": "(878, 149, 38, 55)",
+      "offset": "(10.68, 7.1)",
+      "bearingY": 40.14,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 99,
+      "bitmapRect": "(918, 149, 43, 64)",
+      "offset": "(8.04, -2.44)",
+      "bearingY": 49.68,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 100,
+      "bitmapRect": "(963, 149, 45, 55)",
+      "offset": "(7.32, 5.66)",
+      "bearingY": 41.58,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 101,
+      "bitmapRect": "(1010, 149, 53, 64)",
+      "offset": "(3.18, -3.16)",
+      "bearingY": 50.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 102,
+      "bitmapRect": "(1065, 149, 47, 50)",
+      "offset": "(6.84, 10.46)",
+      "bearingY": 36.78,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 103,
+      "bitmapRect": "(1114, 149, 53, 59)",
+      "offset": "(4.2, 1.22)",
+      "bearingY": 46.019999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 104,
+      "bitmapRect": "(1169, 149, 56, 60)",
+      "offset": "(3.18, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 105,
+      "bitmapRect": "(1227, 149, 56, 60)",
+      "offset": "(3.42, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 106,
+      "bitmapRect": "(1285, 149, 45, 62)",
+      "offset": "(8.28, -1.84)",
+      "bearingY": 49.08,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 107,
+      "bitmapRect": "(1332, 149, 54, 62)",
+      "offset": "(8.28, -1.84)",
+      "bearingY": 49.08,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 108,
+      "bitmapRect": "(1388, 149, 33, 62)",
+      "offset": "(11.82, -0.76)",
+      "bearingY": 48.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 109,
+      "bitmapRect": "(1423, 149, 39, 62)",
+      "offset": "(11.82, -0.76)",
+      "bearingY": 48.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 110,
+      "bitmapRect": "(1464, 149, 54, 60)",
+      "offset": "(4.68, 1.16)",
+      "bearingY": 46.08,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 111,
+      "bitmapRect": "(1, 223, 59, 61)",
+      "offset": "(4.68, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 112,
+      "bitmapRect": "(62, 223, 47, 57)",
+      "offset": "(6.18, 2.18)",
+      "bearingY": 45.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 113,
+      "bitmapRect": "(111, 223, 52, 57)",
+      "offset": "(6.18, 2.18)",
+      "bearingY": 45.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 114,
+      "bitmapRect": "(165, 223, 48, 60)",
+      "offset": "(5.88, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 115,
+      "bitmapRect": "(215, 223, 56, 63)",
+      "offset": "(5.88, -3.34)",
+      "bearingY": 50.58,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 116,
+      "bitmapRect": "(273, 223, 46, 59)",
+      "offset": "(10.62, 1.7)",
+      "bearingY": 45.54,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 117,
+      "bitmapRect": "(321, 223, 46, 59)",
+      "offset": "(10.62, 1.7)",
+      "bearingY": 45.54,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 118,
+      "bitmapRect": "(369, 223, 56, 63)",
+      "offset": "(1.86, -0.22)",
+      "bearingY": 47.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 119,
+      "bitmapRect": "(427, 223, 60, 67)",
+      "offset": "(1.86, -4.12)",
+      "bearingY": 51.36,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 120,
+      "bitmapRect": "(489, 223, 58, 58)",
+      "offset": "(0.78, 1.82)",
+      "bearingY": 45.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 121,
+      "bitmapRect": "(549, 223, 61, 58)",
+      "offset": "(0.78, 1.82)",
+      "bearingY": 45.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 122,
+      "bitmapRect": "(612, 223, 51, 59)",
+      "offset": "(4.86, 1.82)",
+      "bearingY": 45.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 123,
+      "bitmapRect": "(665, 223, 57, 59)",
+      "offset": "(4.86, 1.82)",
+      "bearingY": 45.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 124,
+      "bitmapRect": "(724, 223, 54, 61)",
+      "offset": "(2.7, -0.82)",
+      "bearingY": 48.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 125,
+      "bitmapRect": "(780, 223, 54, 61)",
+      "offset": "(2.46, -0.82)",
+      "bearingY": 48.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 126,
+      "bitmapRect": "(836, 223, 51, 61)",
+      "offset": "(5.4, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 127,
+      "bitmapRect": "(889, 223, 53, 61)",
+      "offset": "(5.4, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 128,
+      "bitmapRect": "(944, 223, 45, 40)",
+      "offset": "(8.4, 17.12)",
+      "bearingY": 30.119999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 129,
+      "bitmapRect": "(991, 223, 52, 46)",
+      "offset": "(3.96, 10.34)",
+      "bearingY": 36.9,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 130,
+      "bitmapRect": "(1045, 223, 58, 56)",
+      "offset": "(3.96, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 131,
+      "bitmapRect": "(1105, 223, 50, 54)",
+      "offset": "(3.78, 5.48)",
+      "bearingY": 41.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 132,
+      "bitmapRect": "(1157, 223, 51, 54)",
+      "offset": "(3.78, 5.48)",
+      "bearingY": 41.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 133,
+      "bitmapRect": "(1210, 223, 47, 60)",
+      "offset": "(5.04, -0.46)",
+      "bearingY": 47.699999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 134,
+      "bitmapRect": "(1259, 223, 53, 59)",
+      "offset": "(4.92, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 135,
+      "bitmapRect": "(1314, 223, 57, 62)",
+      "offset": "(1.56, -0.7)",
+      "bearingY": 47.94,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 136,
+      "bitmapRect": "(1373, 223, 51, 56)",
+      "offset": "(5.16, 3.44)",
+      "bearingY": 43.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 137,
+      "bitmapRect": "(1426, 223, 60, 58)",
+      "offset": "(-0.36, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 138,
+      "bitmapRect": "(1, 297, 61, 60)",
+      "offset": "(-0.18, 0.08)",
+      "bearingY": 47.16,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 139,
+      "bitmapRect": "(64, 297, 57, 53)",
+      "offset": "(1.62, 5.06)",
+      "bearingY": 42.18,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 140,
+      "bitmapRect": "(123, 297, 56, 59)",
+      "offset": "(3.66, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 141,
+      "bitmapRect": "(181, 297, 60, 60)",
+      "offset": "(3.66, -1.6)",
+      "bearingY": 48.839999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 142,
+      "bitmapRect": "(243, 297, 61, 63)",
+      "offset": "(3.42, -4.18)",
+      "bearingY": 51.419999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 143,
+      "bitmapRect": "(306, 297, 57, 55)",
+      "offset": "(3.54, 5.78)",
+      "bearingY": 41.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 144,
+      "bitmapRect": "(365, 297, 58, 55)",
+      "offset": "(3.54, 5.78)",
+      "bearingY": 41.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 145,
+      "bitmapRect": "(425, 297, 61, 56)",
+      "offset": "(3.54, 4.94)",
+      "bearingY": 42.3,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 146,
+      "bitmapRect": "(488, 297, 58, 61)",
+      "offset": "(1.38, 0.56)",
+      "bearingY": 46.68,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 147,
+      "bitmapRect": "(548, 297, 58, 61)",
+      "offset": "(1.38, 0.56)",
+      "bearingY": 46.68,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 148,
+      "bitmapRect": "(608, 297, 58, 61)",
+      "offset": "(1.38, 0.56)",
+      "bearingY": 46.68,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 149,
+      "bitmapRect": "(668, 297, 59, 40)",
+      "offset": "(0.42, 11.6)",
+      "bearingY": 35.64,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 150,
+      "bitmapRect": "(729, 297, 59, 46)",
+      "offset": "(0.42, 5.78)",
+      "bearingY": 41.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 151,
+      "bitmapRect": "(790, 297, 59, 46)",
+      "offset": "(0.42, 5.48)",
+      "bearingY": 41.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 152,
+      "bitmapRect": "(851, 297, 55, 56)",
+      "offset": "(3, 3.44)",
+      "bearingY": 43.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 153,
+      "bitmapRect": "(908, 297, 61, 61)",
+      "offset": "(3, -1.6)",
+      "bearingY": 48.839999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 154,
+      "bitmapRect": "(971, 297, 61, 63)",
+      "offset": "(3, -3.4)",
+      "bearingY": 50.64,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 155,
+      "bitmapRect": "(1034, 297, 48, 62)",
+      "offset": "(6, -1.72)",
+      "bearingY": 48.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 156,
+      "bitmapRect": "(1084, 297, 57, 58)",
+      "offset": "(2.16, 3.5)",
+      "bearingY": 43.739999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 157,
+      "bitmapRect": "(1143, 297, 57, 61)",
+      "offset": "(0.96, -0.28)",
+      "bearingY": 47.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 158,
+      "bitmapRect": "(1202, 297, 58, 59)",
+      "offset": "(1.08, 0.74)",
+      "bearingY": 46.5,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 159,
+      "bitmapRect": "(1262, 297, 49, 65)",
+      "offset": "(5.88, -1.54)",
+      "bearingY": 48.78,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 160,
+      "bitmapRect": "(1313, 297, 48, 53)",
+      "offset": "(7.02, 8)",
+      "bearingY": 39.24,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 161,
+      "bitmapRect": "(1363, 297, 56, 61)",
+      "offset": "(3.06, -1.36)",
+      "bearingY": 48.6,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 162,
+      "bitmapRect": "(1421, 297, 47, 53)",
+      "offset": "(7.08, 9.32)",
+      "bearingY": 37.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 163,
+      "bitmapRect": "(1470, 297, 54, 63)",
+      "offset": "(4.2, -0.28)",
+      "bearingY": 47.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 164,
+      "bitmapRect": "(1, 371, 43, 51)",
+      "offset": "(7.32, 9.38)",
+      "bearingY": 37.86,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 165,
+      "bitmapRect": "(46, 371, 50, 61)",
+      "offset": "(3.72, -0.22)",
+      "bearingY": 47.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 166,
+      "bitmapRect": "(98, 371, 48, 62)",
+      "offset": "(8.16, -0.88)",
+      "bearingY": 48.12,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 167,
+      "bitmapRect": "(148, 371, 41, 60)",
+      "offset": "(9.84, 0.74)",
+      "bearingY": 46.5,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 168,
+      "bitmapRect": "(191, 371, 47, 59)",
+      "offset": "(7.56, 1.94)",
+      "bearingY": 45.3,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 169,
+      "bitmapRect": "(240, 371, 59, 61)",
+      "offset": "(0.84, -0.28)",
+      "bearingY": 47.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 170,
+      "bitmapRect": "(301, 371, 47, 60)",
+      "offset": "(7.74, 1.94)",
+      "bearingY": 45.3,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 171,
+      "bitmapRect": "(350, 371, 49, 51)",
+      "offset": "(5.94, 9.38)",
+      "bearingY": 37.86,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 172,
+      "bitmapRect": "(401, 371, 57, 60)",
+      "offset": "(1.68, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 173,
+      "bitmapRect": "(460, 371, 57, 60)",
+      "offset": "(1.86, 0.26)",
+      "bearingY": 46.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 174,
+      "bitmapRect": "(519, 371, 62, 61)",
+      "offset": "(-0.06, -0.94)",
+      "bearingY": 48.18,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 175,
+      "bitmapRect": "(583, 371, 48, 63)",
+      "offset": "(6.36, -1.78)",
+      "bearingY": 49.019999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 176,
+      "bitmapRect": "(633, 371, 52, 59)",
+      "offset": "(4.08, 0.98)",
+      "bearingY": 46.26,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 177,
+      "bitmapRect": "(687, 371, 51, 64)",
+      "offset": "(7.8, -2.44)",
+      "bearingY": 49.68,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 178,
+      "bitmapRect": "(740, 371, 12, 12)",
+      "offset": "(-5.76, 47.24)",
+      "bearingY": 0.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 179,
+      "bitmapRect": "(754, 371, 26, 26)",
+      "offset": "(-3.84, -2.56)",
+      "bearingY": 49.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 180,
+      "bitmapRect": "(782, 371, 24, 25)",
+      "offset": "(-2.88, -2.62)",
+      "bearingY": 49.86,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 181,
+      "bitmapRect": "(808, 371, 35, 43)",
+      "offset": "(11.46, 9.62)",
+      "bearingY": 37.62,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 182,
+      "bitmapRect": "(845, 371, 41, 50)",
+      "offset": "(11.64, 2.24)",
+      "bearingY": 45.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 183,
+      "bitmapRect": "(888, 371, 51, 55)",
+      "offset": "(4.44, 5.24)",
+      "bearingY": 42.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 184,
+      "bitmapRect": "(941, 371, 43, 52)",
+      "offset": "(6.48, 9.5)",
+      "bearingY": 37.74,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 185,
+      "bitmapRect": "(986, 371, 48, 60)",
+      "offset": "(3.66, 1.1)",
+      "bearingY": 46.14,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 186,
+      "bitmapRect": "(1036, 371, 40, 52)",
+      "offset": "(9.6, 8.84)",
+      "bearingY": 38.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 187,
+      "bitmapRect": "(1078, 371, 47, 61)",
+      "offset": "(5.94, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 188,
+      "bitmapRect": "(1127, 371, 48, 39)",
+      "offset": "(5.88, 16.1)",
+      "bearingY": 31.14,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 189,
+      "bitmapRect": "(1177, 371, 55, 48)",
+      "offset": "(2.46, 9.2)",
+      "bearingY": 38.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 190,
+      "bitmapRect": "(1234, 371, 45, 51)",
+      "offset": "(7.32, 9.32)",
+      "bearingY": 37.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 191,
+      "bitmapRect": "(1281, 371, 54, 61)",
+      "offset": "(1.98, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 192,
+      "bitmapRect": "(1337, 371, 48, 60)",
+      "offset": "(5.1, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 193,
+      "bitmapRect": "(1387, 371, 53, 60)",
+      "offset": "(5.1, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 194,
+      "bitmapRect": "(1442, 371, 52, 61)",
+      "offset": "(5.22, -0.46)",
+      "bearingY": 47.699999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 195,
+      "bitmapRect": "(1, 445, 53, 61)",
+      "offset": "(4.98, -0.22)",
+      "bearingY": 47.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 196,
+      "bitmapRect": "(56, 445, 48, 61)",
+      "offset": "(5.58, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 197,
+      "bitmapRect": "(106, 445, 53, 64)",
+      "offset": "(5.52, -3.52)",
+      "bearingY": 50.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 198,
+      "bitmapRect": "(161, 445, 56, 61)",
+      "offset": "(2.76, -0.1)",
+      "bearingY": 47.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 199,
+      "bitmapRect": "(219, 445, 59, 63)",
+      "offset": "(2.76, -1.84)",
+      "bearingY": 49.08,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 200,
+      "bitmapRect": "(280, 445, 45, 47)",
+      "offset": "(6.96, 9.14)",
+      "bearingY": 38.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 201,
+      "bitmapRect": "(327, 445, 51, 60)",
+      "offset": "(6.96, -3.28)",
+      "bearingY": 50.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 202,
+      "bitmapRect": "(380, 445, 56, 61)",
+      "offset": "(1.86, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 203,
+      "bitmapRect": "(438, 445, 60, 61)",
+      "offset": "(1.86, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 204,
+      "bitmapRect": "(500, 445, 49, 54)",
+      "offset": "(8.58, 5.18)",
+      "bearingY": 42.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 205,
+      "bitmapRect": "(551, 445, 50, 55)",
+      "offset": "(8.58, 3.86)",
+      "bearingY": 43.379999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 206,
+      "bitmapRect": "(603, 445, 51, 54)",
+      "offset": "(5.16, 5.36)",
+      "bearingY": 41.879999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 207,
+      "bitmapRect": "(656, 445, 59, 59)",
+      "offset": "(4.92, 0.32)",
+      "bearingY": 46.92,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 208,
+      "bitmapRect": "(717, 445, 54, 60)",
+      "offset": "(1.68, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 209,
+      "bitmapRect": "(773, 445, 56, 60)",
+      "offset": "(1.68, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 210,
+      "bitmapRect": "(831, 445, 48, 57)",
+      "offset": "(5.52, 3.86)",
+      "bearingY": 43.379999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 211,
+      "bitmapRect": "(881, 445, 51, 64)",
+      "offset": "(5.52, -3.52)",
+      "bearingY": 50.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 212,
+      "bitmapRect": "(934, 445, 48, 62)",
+      "offset": "(3.54, -0.22)",
+      "bearingY": 47.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 213,
+      "bitmapRect": "(984, 445, 55, 66)",
+      "offset": "(3.54, -4.24)",
+      "bearingY": 51.48,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 214,
+      "bitmapRect": "(1041, 445, 54, 61)",
+      "offset": "(2.58, 0.2)",
+      "bearingY": 47.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 215,
+      "bitmapRect": "(1097, 445, 56, 61)",
+      "offset": "(2.58, 0.2)",
+      "bearingY": 47.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 216,
+      "bitmapRect": "(1155, 445, 40, 47)",
+      "offset": "(9.84, 12.74)",
+      "bearingY": 34.5,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 217,
+      "bitmapRect": "(1197, 445, 46, 57)",
+      "offset": "(6.9, 3.86)",
+      "bearingY": 43.379999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 218,
+      "bitmapRect": "(1245, 445, 49, 64)",
+      "offset": "(6.9, -3.52)",
+      "bearingY": 50.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 219,
+      "bitmapRect": "(1296, 445, 54, 58)",
+      "offset": "(2.94, 3.26)",
+      "bearingY": 43.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 220,
+      "bitmapRect": "(1352, 445, 59, 62)",
+      "offset": "(2.46, -1.12)",
+      "bearingY": 48.36,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 221,
+      "bitmapRect": "(1413, 445, 39, 61)",
+      "offset": "(14.52, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 222,
+      "bitmapRect": "(1454, 445, 38, 61)",
+      "offset": "(14.52, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 223,
+      "bitmapRect": "(1, 519, 55, 61)",
+      "offset": "(2.58, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 224,
+      "bitmapRect": "(58, 519, 55, 46)",
+      "offset": "(2.64, 9.14)",
+      "bearingY": 38.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 225,
+      "bitmapRect": "(115, 519, 46, 56)",
+      "offset": "(7.14, 5.18)",
+      "bearingY": 42.059999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 226,
+      "bitmapRect": "(163, 519, 56, 63)",
+      "offset": "(3.3, -1.78)",
+      "bearingY": 49.019999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 227,
+      "bitmapRect": "(221, 519, 42, 57)",
+      "offset": "(7.8, 3.68)",
+      "bearingY": 43.559999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 228,
+      "bitmapRect": "(265, 519, 59, 47)",
+      "offset": "(0.18, 8.72)",
+      "bearingY": 38.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 229,
+      "bitmapRect": "(326, 519, 59, 55)",
+      "offset": "(0.18, 0.08)",
+      "bearingY": 47.16,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 230,
+      "bitmapRect": "(387, 519, 60, 56)",
+      "offset": "(0.18, -1)",
+      "bearingY": 48.239999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 231,
+      "bitmapRect": "(449, 519, 45, 58)",
+      "offset": "(9, 1.04)",
+      "bearingY": 46.199999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 232,
+      "bitmapRect": "(496, 519, 53, 59)",
+      "offset": "(9, 0.08)",
+      "bearingY": 47.16,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 233,
+      "bitmapRect": "(551, 519, 50, 61)",
+      "offset": "(9, -1.9)",
+      "bearingY": 49.14,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 234,
+      "bitmapRect": "(603, 519, 47, 55)",
+      "offset": "(6.72, 5.24)",
+      "bearingY": 42.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 235,
+      "bitmapRect": "(652, 519, 51, 65)",
+      "offset": "(6.72, -4.72)",
+      "bearingY": 51.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 236,
+      "bitmapRect": "(705, 519, 58, 65)",
+      "offset": "(5.28, -4.42)",
+      "bearingY": 51.66,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 237,
+      "bitmapRect": "(765, 519, 59, 44)",
+      "offset": "(1.08, 8.72)",
+      "bearingY": 38.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 238,
+      "bitmapRect": "(826, 519, 59, 47)",
+      "offset": "(1.08, 5.78)",
+      "bearingY": 41.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 239,
+      "bitmapRect": "(887, 519, 59, 49)",
+      "offset": "(1.08, 3.2)",
+      "bearingY": 44.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 240,
+      "bitmapRect": "(948, 519, 57, 60)",
+      "offset": "(1.02, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 241,
+      "bitmapRect": "(1007, 519, 57, 60)",
+      "offset": "(1.98, 0.02)",
+      "bearingY": 47.22,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 242,
+      "bitmapRect": "(1066, 519, 57, 63)",
+      "offset": "(1.98, -2.92)",
+      "bearingY": 50.16,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 243,
+      "bitmapRect": "(1125, 519, 52, 50)",
+      "offset": "(2.82, 9.14)",
+      "bearingY": 38.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 244,
+      "bitmapRect": "(1179, 519, 45, 58)",
+      "offset": "(6.72, 1.52)",
+      "bearingY": 45.72,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 245,
+      "bitmapRect": "(1226, 519, 54, 55)",
+      "offset": "(2.82, 3.74)",
+      "bearingY": 43.5,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 246,
+      "bitmapRect": "(1282, 519, 46, 59)",
+      "offset": "(4.92, 1.82)",
+      "bearingY": 45.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 247,
+      "bitmapRect": "(1330, 519, 53, 54)",
+      "offset": "(3.66, 5.24)",
+      "bearingY": 42.0,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 248,
+      "bitmapRect": "(1385, 519, 46, 51)",
+      "offset": "(6.24, 9.38)",
+      "bearingY": 37.86,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 249,
+      "bitmapRect": "(1433, 519, 54, 61)",
+      "offset": "(2.58, -0.22)",
+      "bearingY": 47.46,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 250,
+      "bitmapRect": "(1, 593, 49, 38)",
+      "offset": "(5.28, 17.12)",
+      "bearingY": 30.119999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 251,
+      "bitmapRect": "(52, 593, 56, 46)",
+      "offset": "(2.04, 9.26)",
+      "bearingY": 37.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 252,
+      "bitmapRect": "(110, 593, 38, 44)",
+      "offset": "(12.6, 13.22)",
+      "bearingY": 34.019999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 253,
+      "bitmapRect": "(150, 593, 43, 51)",
+      "offset": "(9.36, 5.3)",
+      "bearingY": 41.94,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 254,
+      "bitmapRect": "(195, 593, 46, 58)",
+      "offset": "(7.2, 3.2)",
+      "bearingY": 44.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 255,
+      "bitmapRect": "(243, 593, 39, 59)",
+      "offset": "(10.8, 2)",
+      "bearingY": 45.239999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 256,
+      "bitmapRect": "(284, 593, 59, 55)",
+      "offset": "(1.08, 3.62)",
+      "bearingY": 43.62,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 257,
+      "bitmapRect": "(345, 593, 46, 57)",
+      "offset": "(10.5, 2)",
+      "bearingY": 45.239999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 258,
+      "bitmapRect": "(393, 593, 49, 50)",
+      "offset": "(5.4, 7.28)",
+      "bearingY": 39.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 259,
+      "bitmapRect": "(444, 593, 40, 48)",
+      "offset": "(10.56, 13.04)",
+      "bearingY": 34.199999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 260,
+      "bitmapRect": "(486, 593, 46, 55)",
+      "offset": "(6.96, 5.3)",
+      "bearingY": 41.94,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 261,
+      "bitmapRect": "(534, 593, 53, 60)",
+      "offset": "(2.64, 0.14)",
+      "bearingY": 47.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 262,
+      "bitmapRect": "(589, 593, 57, 46)",
+      "offset": "(1.68, 9.14)",
+      "bearingY": 38.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 263,
+      "bitmapRect": "(648, 593, 46, 57)",
+      "offset": "(6, 5.06)",
+      "bearingY": 42.18,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 264,
+      "bitmapRect": "(696, 593, 50, 52)",
+      "offset": "(6.78, 6.98)",
+      "bearingY": 40.26,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 265,
+      "bitmapRect": "(748, 593, 52, 65)",
+      "offset": "(6.42, -3.52)",
+      "bearingY": 50.76,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 266,
+      "bitmapRect": "(802, 593, 43, 53)",
+      "offset": "(7.68, 8.6)",
+      "bearingY": 38.64,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 267,
+      "bitmapRect": "(847, 593, 48, 53)",
+      "offset": "(7.14, 9.14)",
+      "bearingY": 38.1,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 268,
+      "bitmapRect": "(897, 593, 51, 65)",
+      "offset": "(6.96, -4.72)",
+      "bearingY": 51.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 269,
+      "bitmapRect": "(950, 593, 58, 61)",
+      "offset": "(2.64, -0.88)",
+      "bearingY": 48.12,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 270,
+      "bitmapRect": "(1010, 593, 58, 58)",
+      "offset": "(0.96, -2.8)",
+      "bearingY": 50.04,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 271,
+      "bitmapRect": "(1070, 593, 57, 67)",
+      "offset": "(6, -4.72)",
+      "bearingY": 51.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 272,
+      "bitmapRect": "(1129, 593, 19, 20)",
+      "offset": "(20.4, 20.42)",
+      "bearingY": 26.82,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 273,
+      "bitmapRect": "(1150, 593, 56, 16)",
+      "offset": "(2.1, 22.28)",
+      "bearingY": 24.96,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 274,
+      "bitmapRect": "(1208, 593, 38, 39)",
+      "offset": "(9.66, 10.82)",
+      "bearingY": 36.42,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 275,
+      "bitmapRect": "(1248, 593, 42, 46)",
+      "offset": "(9.78, 5.72)",
+      "bearingY": 41.519999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 276,
+      "bitmapRect": "(1292, 593, 61, 65)",
+      "offset": "(-0.78, -2.26)",
+      "bearingY": 49.5,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 277,
+      "bitmapRect": "(1355, 593, 63, 65)",
+      "offset": "(-1.8, -2.38)",
+      "bearingY": 49.62,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 278,
+      "bitmapRect": "(1420, 593, 61, 59)",
+      "offset": "(-0.42, 2.9)",
+      "bearingY": 44.339999999999999,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 279,
+      "bitmapRect": "(1, 667, 62, 66)",
+      "offset": "(-1.26, -2.74)",
+      "bearingY": 49.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 280,
+      "bitmapRect": "(65, 667, 64, 66)",
+      "offset": "(-2.76, -2.56)",
+      "bearingY": 49.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 281,
+      "bitmapRect": "(131, 667, 62, 65)",
+      "offset": "(-1.44, -1.9)",
+      "bearingY": 49.14,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 282,
+      "bitmapRect": "(195, 667, 61, 66)",
+      "offset": "(-1.26, -2.56)",
+      "bearingY": 49.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 283,
+      "bitmapRect": "(258, 667, 57, 62)",
+      "offset": "(1.68, 0.86)",
+      "bearingY": 46.379999999999998,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 284,
+      "bitmapRect": "(317, 667, 57, 66)",
+      "offset": "(1.56, -2.56)",
+      "bearingY": 49.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 285,
+      "bitmapRect": "(376, 667, 62, 66)",
+      "offset": "(-0.78, -2.56)",
+      "bearingY": 49.8,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 286,
+      "bitmapRect": "(440, 667, 59, 66)",
+      "offset": "(-0.36, -2.62)",
+      "bearingY": 49.86,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 287,
+      "bitmapRect": "(501, 667, 62, 66)",
+      "offset": "(-0.9, -2.74)",
+      "bearingY": 49.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 288,
+      "bitmapRect": "(565, 667, 63, 64)",
+      "offset": "(-1.92, -0.16)",
+      "bearingY": 47.4,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 289,
+      "bitmapRect": "(630, 667, 61, 64)",
+      "offset": "(0.18, -1.06)",
+      "bearingY": 48.3,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    },
+    {
+      "index": 290,
+      "bitmapRect": "(693, 667, 64, 66)",
+      "offset": "(-1.8, -2.74)",
+      "bearingY": 49.98,
+      "xAdvance": 60.0,
+      "yAdvance": 60.0
+    }
+  ]
+}

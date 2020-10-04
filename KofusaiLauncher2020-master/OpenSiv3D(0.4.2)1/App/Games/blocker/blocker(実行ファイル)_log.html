@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>blocker(実行ファイル) Log</title>
+<style>
+body		{ background-color: #f9f9f9; font-family: 'Segoe UI','メイリオ','Meiryo','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','ＭＳ Ｐゴシック','MS PGothic','Arial',sans-serif; }
+h2			{ color: #333333; text-align: center; font-size: 28px; }
+div			{ font-size: 14px; line-height: 2; word-wrap: break-word; }
+div.error	{ padding-left: 14px; background: #f44336; color: #ffffff; }
+div.fail	{ padding-left: 14px; background: #ff9800; color: #ffffff; }
+div.warning	{ padding-left: 14px; background: #ff9800; color: #ffffff; }
+div.script	{ padding-left: 14px; background: #d9eeda; color: #333333; }
+div.app		{ padding-left: 14px; background: #ffffff; color: #333333; }
+div.info	{ padding-left: 14px; background: #e3f2fd; color: #333333; }
+div.debug	{ padding-left: 14px; background: #f5f5f5; color: #333333; }
+div.trace	{ padding-left: 14px; background: #f5f5f5; color: #333333; }
+div.messages { margin: 0 10% 28px; padding 0 0 28px; border: 1px solid; border-color: #dddddd; border-radius: 2px; box-shadow: 0 1px 1px rgba(0,0,0,.05); }
+</style>
+</head>
+<body>
+<h2>blocker(実行ファイル) Log</h2>
+<div class="messages">
+<div class="info">319: ℹ️ 2020/9/30 14:04:55</div>
+<div class="info">319: ⌛ Preparing for setup...</div>
+<div class="info">319: ℹ️ Siv3D Engine version 0.4.2 (Windows Desktop)</div>
+<div class="info">319: ℹ️ CPU vendor: GenuineIntel</div>
+<div class="info">319: ℹ️ CPU name: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz</div>
+<div class="info">319: ℹ️ Instruction set extensions: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AES-NI, AVX, FMA3, AVX2</div>
+<div class="info">319: ℹ️ CCPU initialized</div>
+<div class="info">319: ℹ️ CProfiler initialized</div>
+<div class="info">319: ℹ️ CImageFormat initialized</div>
+<div class="info">320: ℹ️ CObjectDetection initialized</div>
+<div class="info">328: ℹ️ CWindow initialized</div>
+<div class="info">328: ℹ️ CCursor initialized</div>
+<div class="info">328: ℹ️ CKeyboard initialized</div>
+<div class="info">328: ℹ️ CMouse initialized</div>
+<div class="info">347: 🎮 Gamepad(0) `Logicool G13 Joystick` connected</div>
+<div class="info">348: ℹ️ Gamepad initialized</div>
+<div class="info">349: ℹ️ CXInput initialized</div>
+<div class="info">371: ℹ️ CTextInput initialized</div>
+<div class="info">376: ℹ️ TextToSpeech available</div>
+<div class="info">376: ℹ️ CTextToSpeech initialized</div>
+<div class="info">376: ℹ️ CClipboard initialized</div>
+<div class="info">380: ℹ️ CDragDrop initialized</div>
+<div class="info">385: ℹ️ Codec_MF initialized</div>
+<div class="info">385: ℹ️ CAudioFormat initialized</div>
+<div class="info">386: ℹ️ CAudio_X28 initialized</div>
+<div class="info">386: ℹ️ CFFT initialized</div>
+<div class="info">387: ℹ️ CNetwork initialized</div>
+<div class="info">387: ℹ️ ToastNotification is available</div>
+<div class="info">387: ℹ️ CToastNotification initialized</div>
+<div class="info">394: ℹ️ DXGIFactory5 is available</div>
+<div class="info">394: ℹ️ IDXGIAdapter [0]: NVIDIA GeForce 940MX (Dedicated GPU memory: 1.96GiB, System: 0B, Shared: 3.95GiB) (supports Direct3D 11.1 runtime)</div>
+<div class="info">453: ℹ️ - [D3D_DRIVER_TYPE_HARDWARE] selected: D3D_FEATURE_LEVEL_11_0 (max: D3D_FEATURE_LEVEL_11_0)</div>
+<div class="info">464: ℹ️ IDXGIAdapter [1]: Intel(R) HD Graphics 620 (Dedicated GPU memory: 128MiB, System: 0B, Shared: 3.95GiB) (supports Direct3D 11.1 runtime)</div>
+<div class="info">493: ℹ️ - [D3D_DRIVER_TYPE_HARDWARE] selected: D3D_FEATURE_LEVEL_12_1 (max: D3D_FEATURE_LEVEL_12_1)</div>
+<div class="info">498: ℹ️ 2 adapters available</div>
+<div class="info">500: ℹ️ [D3D_DRIVER_TYPE_WARP] supports D3D_FEATURE_LEVEL_11_1</div>
+<div class="info">500: ℹ️ [D3D_DRIVER_TYPE_REFERENCE] supports D3D_FEATURE_LEVEL_10_1</div>
+<div class="info">500: ℹ️ selectedAdapterIndex: 0 (NVIDIA GeForce 940MX)</div>
+<div class="info">547: ✅ D3D11 device created. Driver type: Hardware (D3D_FEATURE_LEVEL_11_0)</div>
+<div class="info">572: `d3dcompiler_47.dll` found</div>
+<div class="info">572: HLSL compiler is available</div>
+<div class="info">573: ℹ️ CShader_D3D11 initialized</div>
+<div class="info">573: 4x MSAA support:</div>
+<div class="info">573: ℹ️ CTexture_D3D11 initialized</div>
+<div class="info">576: ℹ️ CRenderer2D_D3D11 initialized</div>
+<div class="info">576: ℹ️ CGraphics_D3D11 initialized</div>
+<div class="info">576: ℹ️ CScreenCapture initialized</div>
+<div class="info">578: ℹ️ CFont initialized</div>
+<div class="info">578: ℹ️ CSDFFont initialized</div>
+<div class="info">578: ℹ️ CGUI initialized</div>
+<div class="info">578: ℹ️ CEffect initialized</div>
+<div class="info">578: ℹ️ CPrint initialized</div>
+<div class="info">578: ℹ️ Asset initialized</div>
+<div class="info">579: ✅ Siv3D engine setup completed</div>
+<hr width="99%"><div class="info">595: ℹ️ CScript initialized</div>
+<div class="error">2795550: 🛑 Application terminated due to an exception `EXCEPTION_ACCESS_VIOLATION`</div>
+<hr width="99%"><div class="info">2813688: ✅ Siv3D engine has terminated</div>
+<div class="info">2813688: ℹ️ 2020/9/30 14:51:48</div>
+</div>
+</body>
+</html>
