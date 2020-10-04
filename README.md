@@ -1,5 +1,8 @@
 # KofusaiLauncher2020
 This is Launcher Program for 2020 Online Kofusai in Waseda High School.
+## Caution
+- This Program use TCP Networking by Port 51126 to Server Program.<br>
+- If you do not want to use network communication, set it from Config.
 ## Library
 - C++17 ver.VS2020<br>
 - [OpenSiv3D ver.0.4.3](https://github.com/Siv3D/OpenSiv3D)<br>
@@ -18,8 +21,8 @@ logo = true <-Whether to display Logo Scene first
 ## Author
 S.Takahashi (Waseda High School 125th)
 ## License
-#### Apache License 2.0
-A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+**Apache License 2.0**<br>
+*A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.*
 
 Copyright (c) 2020 Waseda High School Personal Computing Club All Rights Reserved.<br>
 The copyright of each game exists for each creator.(Games Folder)
