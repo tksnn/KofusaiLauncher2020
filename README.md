@@ -1,7 +1,7 @@
 # KofusaiLauncher2020
 This is Launcher Program for 2020 Online Kofusai in Waseda High School.
 ## Caution
-- This Program use TCP Networking by Port 51126 to Server Program.<br>
+- This Program use TCP Networking by Port 51126 to [Server Program](https://github.com/tksnn/KofusaiTimer2020).<br>
 - If you do not want to use network communication, set it from Config.
 ## Library
 - C++17 ver.VS2020<br>
