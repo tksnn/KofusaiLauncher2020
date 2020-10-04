@@ -5,6 +5,7 @@ This is Launcher Program for 2020 Online Kofusai in Waseda High School.
 - If you do not want to use network communication, set it from Config.
 ## Library
 - C++17 ver.VS2020<br>
+- Win32 API
 - [OpenSiv3D ver.0.4.3](https://github.com/Siv3D/OpenSiv3D)<br>
 - [HTTPClient with curl on OpenSiv3D](https://github.com/Siv3D/OpenSiv3D/issues/482)<br>
 ## Config
